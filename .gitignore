@@ -5,3 +5,4 @@ dist
 
 *.lock
 *-lock.yaml
+*-lock.json
